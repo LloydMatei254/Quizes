@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name= "orange">#f78441</color>
+    <color name="navy_blue">#352e45</color>
+    <color name="purple">#8c72ed</color>
+    <color name="blue">#45beb9</color>
+    <color name="red">#f55150</color>
+    <color name="green">#34d287</color>
+    <color name="grey">#e9e7f2</color>
+    <color name="my_menu_badge_color">#FF0000</color>
+    <color name="my_menu_unselected_color">#757575</color>
+</resources>
